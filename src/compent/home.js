@@ -9,7 +9,7 @@ function Home() {
     <>
     <div className='d-flex p-3 bg-secondary text-white'>
     <div className='hijama'>
-      <h1 className='text-center'>علاجb الحجامة</h1>
+      <h1 className='text-center' style={{backgroundColor:'black'}}>علاجb الحجامة</h1>
       <p className='text-center' >تحفيز التدفق الحر للطاقة لتعزيز قوة الشفاء</p>
       <img src={hijama} width={600} height={300} className='img-thumbnail mx-auto d-block'/>
       <br/>
